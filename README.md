@@ -13,6 +13,7 @@ I created a meditative website that allows the user to chose between affirmation
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+<img width="1433" alt="Screen Shot 2022-09-11 at 5 33 04 PM" src="https://user-images.githubusercontent.com/19957834/189556148-9f56870d-7e41-4ad0-a278-5aae442d0f9d.png">
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
@@ -31,11 +32,13 @@ https://github.com/knpausch
 
 ### Wins + Challenges:
 [//]: <> (What are 2-3 wins you have from this project? What were some challenges you faced - and how did you get over them?)
+
 WINS:
 1. Completed all bullet points and goals for the project
 1. I did not refer to my older code or code with anyone else
 1. I taught myself how to use flexbox, radiobuttons, and practiced matching comps
 1. This is the first website I've ever made on my own. All JavaScrit, HTML and CSS code has been written from scratch from me.
+
 CHALLENGES:
 1. Flexbox and matching comps
 1. HTML and CSS code
